@@ -4,6 +4,7 @@
 - ☁️ AWS Estudante 
 - 🔐Cyber Security Aspirante 
 - 🎩 White Hat Aspirante
+- 💼 Gestor de Tráfego (Suporte)
 - 🎬 Entusiasta do Áudio Visual
 - 🇺🇸 English Speaker 
 - 🎮 Hardcore Console Gamer
