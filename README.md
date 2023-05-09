@@ -1,9 +1,12 @@
-- **Biografia em construção...**
+- *Welcome to my profile/ Bem vindos ao meu perfil!*
 - 👋 Hi, I’m @eduardovirtual
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- ☕ Desenvolvedor Web Java (Full-Stack)
+- ☁️ AWS Estudante 
+- 🔐Cyber Security Aspirante 
+- 🎩 White Hat Aspirante
+- 🎬 Entusiasta do Áudio Visual
+- 🇺🇸 English Speaker 
+- 🎮 Hardcore Console Gamer
 
 <!---
 eduardovirtual/eduardovirtual is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
