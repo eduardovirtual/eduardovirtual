@@ -30,14 +30,14 @@
 </div>
 
 ## Assuntos do meu interesse / Topics from my interest :
-*☕ Desenvolvedor Web Java (Full-Stack) <br>
-*☁️ Amazon Web Servers Estudante <br>
-*🔐Cyber Security Aspirante <br>
-*🎩 White Hat Aspirante <br>
-*💼 Gestor de Tráfego (Suporte) <br>
-*🎬 Entusiasta do Áudio Visual <br>
-*🇺🇸 English Speaker <br>
-*🎮 Hardcore Console Gamer <br>
+☕ Desenvolvedor Web Java (Full-Stack) <br>
+☁️ Amazon Web Servers Estudante <br>
+🔐Cyber Security Aspirante <br>
+🎩 White Hat Aspirante <br>
+💼 Gestor de Tráfego (Suporte) <br>
+🎬 Entusiasta do Áudio Visual <br>
+🇺🇸 English Speaker <br>
+🎮 Hardcore Console Gamer <br>
 
 <!---
 eduardovirtual/eduardovirtual is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
