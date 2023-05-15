@@ -1,8 +1,8 @@
 <h1 align="center"> Welcome to my Profile! <br> Bem-vindos ao meu perfil!</h1>
-<h2>Me chamo Eduardo dos Santos, tenho 20 anos e sou estudante de Desenvolvimento Web Full-Stack no Instituto Proa  <br> I'm Eduardo dos Santos and I'm 20 y.o, and at the moment I'm a student of Java Web-Development 👨‍💻.</h2>
+<h2>Me chamo Eduardo dos Santos, tenho 20 anos e sou estudante de Desenvolvimento Web Full-Stack no Instituto Proa / <br> I'm Eduardo dos Santos and I'm 20 y.o, and at the moment I'm a student of Java Web-Development 👨‍💻.</h2>
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](DuDuzuero#2547)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-dos-santos-/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/eduardo-dos-santos-)
 
 ![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardovirtual&show_icons=true&theme=dracula)
 
@@ -30,14 +30,22 @@
 </div>
 
 ## Assuntos do meu interesse / Topics from my interest :
-☕ Desenvolvedor Web Java (Full-Stack) <br>
-☁️ Amazon Web Servers Estudante <br>
-🔐Cyber Security Aspirante <br>
-🎩 White Hat Aspirante <br>
-💼 Gestor de Tráfego (Suporte) <br>
-🎬 Entusiasta do Áudio Visual <br>
-🇺🇸 English Speaker <br>
-🎮 Hardcore Console Gamer <br>
+-☕ Desenvolvedor Web Java (Full-Stack) <br>
+-☁️ Amazon Web Servers Estudante <br>
+-🔐Cyber Security Aspirante <br>
+-🎩 White Hat Aspirante <br>
+-💼 Gestor de Tráfego (Suporte) <br>
+-🎬 Entusiasta do Áudio Visual <br>
+-🇺🇸 English Speaker <br>
+-🎮 Hardcore Console Gamer <br>
+
+
+
+
+
+
+
+
 
 <!---
 eduardovirtual/eduardovirtual is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
