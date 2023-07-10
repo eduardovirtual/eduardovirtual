@@ -31,7 +31,7 @@
 
 ## Assuntos do meu interesse / Topics from my interest :
 -☕ Desenvolvedor Web Java (Recém-Formado) <br>
--☁️ Amazon Web Servers (Recém-Formado) <br>
+-☁️ Amazon Web Services (Recém-Formado) <br>
 -🔐Cyber Security (Aspirante) <br>
 -🎩 White Hat (Aspirante) <br>
 -💼 Gestor de Tráfego Digital (Iniciante) <br>
