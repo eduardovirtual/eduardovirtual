@@ -1,5 +1,5 @@
 <h1 align="center"> Welcome to my Profile! <br> Bem-vindos ao meu perfil!</h1>
-<h2>Me chamo Eduardo dos Santos, tenho 21 anos e sou estudante de Desenvolvimento Web Full-Stack no Instituto Proa / <br> I'm Eduardo dos Santos and I'm 21 y.o, and at the moment I'm a student of Java Web-Development 👨‍💻.</h2>
+<h2>Me chamo Eduardo dos Santos, tenho 21 anos e sou um Desenvolvedor Web Java, Recém-Formado pelo Instituto Proa / <br> I'm Eduardo dos Santos and I'm 21 y.o, and I'm a Java Web Developer 👨‍💻.</h2>
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-dos-santos-)
