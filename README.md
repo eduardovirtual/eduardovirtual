@@ -30,11 +30,11 @@
 </div>
 
 ## Assuntos do meu interesse / Topics from my interest :
--☕ Desenvolvedor Web Java (Full-Stack) <br>
--☁️ Amazon Web Servers Estudante <br>
--🔐Cyber Security Aspirante <br>
--🎩 White Hat Aspirante <br>
--💼 Gestor de Tráfego (Suporte) <br>
+-☕ Desenvolvedor Web Java (Recém-Formado) <br>
+-☁️ Amazon Web Servers (Recém-Formado) <br>
+-🔐Cyber Security (Aspirante) <br>
+-🎩 White Hat (Aspirante) <br>
+-💼 Gestor de Tráfego Digital (Iniciante) <br>
 -🎬 Entusiasta do Áudio Visual <br>
 -🇺🇸 English Speaker <br>
 -🎮 Hardcore Console Gamer <br>
