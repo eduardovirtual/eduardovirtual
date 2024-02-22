@@ -29,16 +29,6 @@
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
 </div>
 
-## Assuntos do meu interesse / Topics from my interest :
--☕ Desenvolvedor Web Java (Recém-Formado) <br>
--☁️ Amazon Web Services (Recém-Formado) <br>
--🔐Cyber Security (Aspirante) <br>
--🎩 White Hat (Aspirante) <br>
--💼 Gestor de Tráfego Digital (Iniciante) <br>
--🎬 Entusiasta do Áudio Visual <br>
--🇺🇸 English Speaker <br>
--🎮 Hardcore Console Gamer <br>
-
 
 <!---
 eduardovirtual/eduardovirtual is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
