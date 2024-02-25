@@ -1,5 +1,5 @@
 <h1 align="center"> Welcome to my Profile! <br> Bem-vindos ao meu perfil!</h1>
-<h2>Me chamo Eduardo dos Santos, tenho 21 anos e sou um Desenvolvedor Web Java! - <br> I'm Eduardo dos Santos and I'm 21 y.o, and I'm a Java Web Developer! 👨‍💻.</h2>
+<h2>Me chamo Eduardo dos Santos, tenho 21 anos e sou um Desenvolvedor Web Java em Desenvolvimento <br> I'm Eduardo dos Santos, I am 21 y.o and I'm a Java Web Developer in Development! 👨‍💻.</h2>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-dos-santos-)
 
