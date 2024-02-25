@@ -5,7 +5,7 @@
 
 ![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardovirtual&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardovirtual&layout=compact)](https://github.com/eduardovirtual/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardovirtual&layout=compact&theme=dracula)](https://github.com/eduardovirtual/github-readme-stats)
 
 ## Tecnologias e Linguagens Utilizadas - Language and Technologies Used :
 
