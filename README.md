@@ -22,7 +22,7 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)]()
 </div>
 
-## Ferramentas Utilizadas - Tools Used :
+## Ferramentas Utilizadas - Toolkits Used :
 
 <div style='display:inline_block'> <br/>
 
