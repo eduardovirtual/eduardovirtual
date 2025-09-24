@@ -1,5 +1,6 @@
 <h1 align="center"> Welcome to my Profile! <br> Bem-vindos ao meu perfil!</h1>
-<h3>Me chamo Eduardo dos Santos, tenho 22 anos e sou um Desenvolvedor Web Java em Desenvolvimento! <br> I'm Eduardo dos Santos, I am 22 y.o and I'm a Java Web Developer in Development! 👨‍💻.</h3>
+<h3>Me chamo Eduardo dos Santos, sou um Analista de Dados também com experiência em Desenvolvimento Web! <br> 
+My name is Eduardo dos Santos, I am a Data Analyst with experience in Web Development!! 👨‍💻.</h3>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-dos-santos-)
 
@@ -7,7 +8,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardovirtual&layout=compact&theme=dracula)](https://github.com/eduardovirtual/github-readme-stats)
 
-## Tecnologias e Linguagens Utilizadas - Language and Technologies Used :
+## 💻 Tecnologias e Linguagens | Technologies & Languages : 
 
 <div style='display:inline_block'> <br/>
 
@@ -24,7 +25,7 @@
 
 </div>
 
-## Ferramentas Utilizadas - Toolkits Used :
+## 🛠️ Ferramentas | Toolkits (IDE's) :
 
 <div style='display:inline_block'> <br/>
 
